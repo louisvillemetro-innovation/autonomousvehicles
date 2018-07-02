@@ -11,3 +11,9 @@
 * [Play 4: Transit](play-4-transit.md)
 * [Play 5: ITS & Data](play-5-its-and-data.md)
 
+## Action Plan
+
+* [Current Projects](currentprojects.md)
+* [Upcoming Projects](upcomingprojects.md)
+
+
