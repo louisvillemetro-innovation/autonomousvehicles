@@ -2,8 +2,12 @@
 
 * [Introduction](README.md)
 * [Values](values.md)
-* [Play 1: Infrastructure](infrastructure.md)
-* [Play 2: Partnerships](partnerships.md)
-* [Play 3: Parking](parking.md)
-* [Play 4: Transit](transit.md)
-* [Play 5: ITS & Data](itsdata.md)
+
+## Playbook
+
+* [Play 1: Infrastructure](play-1-infrastructure.md)
+* [Play 2: Partnerships](play-2-partnerships.md)
+* [Play 3: Parking](play-3-parking.md)
+* [Play 4: Transit](play-4-transit.md)
+* [Play 5: ITS & Data](play-5-its-and-data.md)
+

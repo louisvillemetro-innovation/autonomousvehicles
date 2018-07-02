@@ -9,6 +9,7 @@ Because cities are not empowered to chart their own destinies regarding AVs, Lou
 ## Action Steps:
 
 1. Designate specific areas in Louisville for potential AV testing sites and AV fleet storage.
-2. Work with State and local partners to develop a legal framework for Autonomous Vehicle testing in Kentucky including updating the legal definition of the term &quot;driver&quot; in light of new technology.
+2. Work with State and local partners to develop a legal framework for Autonomous Vehicle testing in Kentucky including updating the legal definition of the term "driver" in light of new technology.
 3. Develop relationships with leaders in the AV industry
 4. Create a process to update this playbook as AV technologies and community priorities change and new partnerships are created.
+
