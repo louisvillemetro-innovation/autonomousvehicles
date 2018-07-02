@@ -1,4 +1,4 @@
-# Play 2:
+# Play 2: Partnerships
 
 **Forge public and private partnerships to prepare for new regulatory and technological challenges, anticipate emerging technologies, and establish best practices.**
 
