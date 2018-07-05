@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Cover Page](README.md)
+
+## Background
+
 * [Introduction](introduction.md)
 * [Values](values.md)
 
