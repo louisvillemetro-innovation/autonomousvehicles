@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Cover Page](README.md)
+* [Introduction](introduction.md)
 * [Values](values.md)
 
 ## Playbook
