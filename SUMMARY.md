@@ -6,7 +6,7 @@
 
 * [Introduction](introduction.md)
 * [Values](values.md)
-* Acknowledgements
+* [Acknowledgements](acknowledgements.md)
 
 ## Playbook
 
@@ -23,5 +23,6 @@
 
 ## Resources
 
-* Press
-* About the mobility innovation team
+* [About the Mobility Innovation Team](mit.md)
+* [Press](press.md)
+
