@@ -6,6 +6,7 @@
 
 * [Introduction](introduction.md)
 * [Values](values.md)
+* Acknowledgements
 
 ## Playbook
 
@@ -20,3 +21,7 @@
 * [Current Projects](action-plan/current-projects.md)
 * [Upcoming Projects](action-plan/upcoming-projects.md)
 
+## Resources
+
+* Press
+* About the mobility innovation team
