@@ -4,9 +4,9 @@
 
 ## Background
 
-* [Introduction](introduction.md)
-* [Values](values.md)
-* [Acknowledgements](acknowledgements.md)
+* [Introduction](background/introduction.md)
+* [Values](background/values.md)
+* [Acknowledgements](background/acknowledgements.md)
 
 ## Playbook
 
@@ -23,6 +23,6 @@
 
 ## Resources
 
-* [About the Mobility Innovation Team](mit.md)
-* [Press](press.md)
+* [About the Mobility Innovation Team](resources/about-the-mobility-innovation-team.md)
+* [Press](resources/press.md)
 

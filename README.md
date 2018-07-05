@@ -1,6 +1,6 @@
 # Cover Page
 
-![](.gitbook/assets/metro-seal-full-color.jpg)
+![](.gitbook/assets/slide1.JPG)
 
-## Autonomous Vehicle Playbook
+
 
