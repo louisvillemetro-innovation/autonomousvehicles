@@ -1,7 +1,7 @@
-# Louisville Metro
+<H1 align="center">Louisville Metro</H1>
   
-# Autonomous Vehicle Playbook
+<H1 align="center">Autonomous Vehicle Playbook</H1>
+<br>
+<img src="" align="center" height="500" width="500">
   
-![LouisvilleMetroLogo](https://github.com/louisvillemetro-innovation/autonomousvehicles/blob/master/Metro%20Seal%20-%20Full%20Color.jpg)
-  
-### July 2018
+<H3 align="center">July 2018</H3>
